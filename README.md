@@ -20,9 +20,9 @@ If you're looking for a way to contribute, you can scan through existing issues 
 - [library](https://github.com/idriss-crypto/ts-library/issues)
 - [browser extension](https://github.com/idriss-crypto/browser-extensions/issues)
 - [tipping page](https://github.com/idriss-crypto/tipping-page/issues)
-- [IDriss smart contracts](https://github.com/idriss-crypto/contracts/issues)\
+- [IDriss smart contracts](https://github.com/idriss-crypto/contracts/issues)
 
-When ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
+When ready, check out [Getting Started with Contributing](CONTRIBUTING.md) for detailed instructions.
 
 ### Continue Reading
 
