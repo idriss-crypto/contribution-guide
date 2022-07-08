@@ -20,14 +20,18 @@ If you're looking for a way to contribute, you can scan through existing issues 
 - [library](https://github.com/idriss-crypto/ts-library/issues)
 - [browser extension](https://github.com/idriss-crypto/browser-extensions/issues)
 - [tipping page](https://github.com/idriss-crypto/tipping-page/issues)
-- [IDriss smart contracts](https://github.com/idriss-crypto/contracts/issues)
+- [IDriss smart contracts](https://github.com/idriss-crypto/contracts/issues)\
+
 When ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
 
 ### Continue Reading
 
 See [the contributing guide](CONTRIBUTING.md) for instructions on how to get started with IDriss. 
+
 Join our [Discord](https://discord.gg/RJhJKamjw5) server to dicuss anything and follow us on [Twitter](https://twitter.com/IDriss_xyz).
+
 Read our [docs](https://docs.idriss.xyz/) to learn more about IDriss.
+
 Visit our [website](https://www.idriss.xyz/) to get started using IDriss.
 
 ### That's it!
