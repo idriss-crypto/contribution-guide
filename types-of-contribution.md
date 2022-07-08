@@ -45,7 +45,9 @@ If you're having trouble with your GitHub account, contact [GitHub Support](http
 ###  :thought_balloon: Example Contributions
 
 - Found a typo? Let us know on [Discord](https://discord.gg/RJhJKamjw5).
-- Good with graphics? Send us your designs to hello@idriss.xyz or on [Discord](https://discord.gg/RJhJKamjw5).
+- Good with graphics? Send your designs to hello@idriss.xyz or on [Discord](https://discord.gg/RJhJKamjw5).
 - You love to write? Publish a blog or social media post and let us know so we can share it!
 - You would like to see additional features in any of the products around IDriss? Create an issue.
 - Are you a developer? Check out open issues and show off your skills!
+
+:pray: Thank you for contributing :pray:
