@@ -8,7 +8,7 @@ IDriss' team and individual contributers may work on pre-production level conten
 
 ## Contributing
 
-See [the contributing guide](CONTRIBUTING.md) for instructions on how to get started with IDriss. 
+See [the contributing guide](https://github.com/idriss-crypto/contribution-guide/blob/main/CONTRIBUTE.md) for instructions on how to get started with IDriss. 
 
 Any kind of contribution is welcome! Check the types of contributions we are currently looking for [here](), or feel free to reach out on [Discord](https://discord.gg/RJhJKamjw5) to have your ideas added!
 
@@ -22,7 +22,7 @@ If you're looking for a way to contribute, you can scan through existing issues 
 - [tipping page](https://github.com/idriss-crypto/tipping-page/issues)
 - [IDriss smart contracts](https://github.com/idriss-crypto/contracts/issues)
 
-When ready, check out [Getting Started with Contributing](CONTRIBUTING.md) for detailed instructions.
+When ready, check out [Getting Started with Contributing](https://github.com/idriss-crypto/contribution-guide/blob/main/CONTRIBUTE.md) for detailed instructions.
 
 ### Continue Reading
 
