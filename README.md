@@ -3,7 +3,7 @@ Learn how to contribute to IDriss
 
 This repository informs about ways to contribute to IDriss. The information found in here applies to every repository published from [IDriss](https://github.com/idriss-crypto) on GitHub, including our [library](https://github.com/idriss-crypto/ts-library), [browser extension](https://github.com/idriss-crypto/browser-extensions), [tipping page](https://github.com/idriss-crypto/tipping-page), and IDriss [smart contracts](https://github.com/idriss-crypto/contracts). A full documentation can be found in the [docs](https://docs.idriss.xyz/).
 
-IDriss' team and individual contributers may work on pre-production level content in private repositories and sync these with the public once they reach a satisfactory standard.
+IDriss' team and individual contributors may work on pre-production level content in private repositories and sync these with the public once they reach a satisfactory standard.
 
 
 ## Contributing
@@ -38,7 +38,7 @@ Visit our [website](https://www.idriss.xyz/) to get started using IDriss.
 
 If you're having trouble with your GitHub account, contact [Support](https://support.github.com/contact).
 
-That's how you can easily become an IDriss contributer. :sparkles:
+That's how you can easily become an IDriss contributor. :sparkles:
 
 
 ## License
