@@ -12,7 +12,7 @@ See [the contributing guide](https://github.com/idriss-crypto/contribution-guide
 
 Any kind of contribution is welcome! Check the types of contributions we are currently looking for [here](), or feel free to reach out on [Discord](https://discord.gg/RJhJKamjw5) to have your ideas added!
 
-In our contribution channel, you can send your input for quick fixes like typos, graphics, or link fixes. They will then be added to our GitHub repo.
+In our [build channel on Discord](https://discord.gg/CWBfy3CdMg), you can send your input for quick fixes like typos, graphics, or link fixes. They will then be added to our GitHub repo.
 
 For more complex contributions and requests, you can open an issue using the most appropriate issue template to describe the changes you'd like to see.
 
