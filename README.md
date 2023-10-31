@@ -43,4 +43,4 @@ That's how you can easily become an IDriss contributor. :sparkles:
 
 ## License
 
-All the code you find in our respositories is under the [MIT license](LICENSE-CODE).
+All the code you find in our respositories is under the [GNU License]([LICENSE-CODE](https://github.com/idriss-crypto/contribution-guide/blob/main/LICENSE)https://github.com/idriss-crypto/contribution-guide/blob/main/LICENSE).
